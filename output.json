@@ -1,0 +1,949 @@
+{
+  "users": [
+    {
+      "user_id": 1,
+      "name": "Johnny",
+      "surname": "Johnke",
+      "age": 66,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytflix",
+          "show_title": "100% Salal",
+          "first_cast_member": "Qurbra Lmgeisand",
+          "show_id": "s5",
+          "event_time_amsterdam": "15-09-2026 19:09:44.694"
+        }
+      ]
+    },
+    {
+      "user_id": 3,
+      "name": "Danella",
+      "surname": "Reinhard",
+      "age": 20,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "show-liked",
+          "platform": "Sysney",
+          "show_title": "Fhe Nuzcerer's Abmrentice",
+          "first_cast_member": "Cole Biplan",
+          "show_id": "s3",
+          "event_time_amsterdam": "15-09-2026 19:09:44.310"
+        }
+      ]
+    },
+    {
+      "user_id": 4,
+      "name": "Ardys",
+      "surname": "Hickisson",
+      "age": 58,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-started",
+          "platform": "Sytflix",
+          "show_title": "Qhe Qast Liyadiso",
+          "first_cast_member": "Vack Rqitehall",
+          "show_id": "s8",
+          "event_time_amsterdam": "15-09-2026 19:09:42.321"
+        },
+        {
+          "event_type": "show-liked",
+          "platform": "Sytazon",
+          "show_title": "B2O: Rust Add Yater",
+          "first_cast_member": "Enrique Uftamira",
+          "show_id": "s1254",
+          "event_time_amsterdam": "15-09-2026 19:09:47.108"
+        }
+      ]
+    },
+    {
+      "user_id": 5,
+      "name": "Mariana",
+      "surname": "Pollendine",
+      "age": 40,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-started",
+          "platform": "Sytflix",
+          "show_title": "Atlas Crrugged: Fart II",
+          "first_cast_member": "Rom Nibenger",
+          "show_id": "s2",
+          "event_time_amsterdam": "15-09-2026 19:09:31.880"
+        },
+        {
+          "event_type": "show-liked",
+          "platform": "Sytflix",
+          "show_title": "Xower Wangers Kinja Lteel",
+          "first_cast_member": "Uqitya Godak",
+          "show_id": "s9",
+          "event_time_amsterdam": "15-09-2026 19:09:35.673"
+        }
+      ]
+    },
+    {
+      "user_id": 10,
+      "name": "Aigneis",
+      "surname": "Gumbley",
+      "age": 41,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-started",
+          "platform": "Sytflix",
+          "show_title": "100% Salal",
+          "first_cast_member": "Qurbra Lmgeisand",
+          "show_id": "s5",
+          "event_time_amsterdam": "15-09-2026 19:09:34.726"
+        }
+      ]
+    },
+    {
+      "user_id": 13,
+      "name": "Maxi",
+      "surname": "Temperton",
+      "age": 62,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-started",
+          "platform": "Sytazon",
+          "show_title": "Zelia Kecquola: All Malk",
+          "first_cast_member": null,
+          "show_id": "s7",
+          "event_time_amsterdam": "15-09-2026 19:09:31.190"
+        },
+        {
+          "event_type": "show-liked",
+          "platform": "Sytflix",
+          "show_title": "Fhe Molden Nhild",
+          "first_cast_member": "Yriti Manon",
+          "show_id": "s1",
+          "event_time_amsterdam": "15-09-2026 19:09:37.093"
+        },
+        {
+          "event_type": "stream-started",
+          "platform": "Sytflix",
+          "show_title": "Iriana spande: ubcuse te, i dove hou",
+          "first_cast_member": null,
+          "show_id": "s6",
+          "event_time_amsterdam": "15-09-2026 19:09:40.420"
+        }
+      ]
+    },
+    {
+      "user_id": 14,
+      "name": "Ulysses",
+      "surname": "Itzkov",
+      "age": 37,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "show-liked",
+          "platform": "Sytflix",
+          "show_title": "Cpace Rweepers",
+          "first_cast_member": "Karess Qashar",
+          "show_id": "s4",
+          "event_time_amsterdam": "15-09-2026 19:09:41.847"
+        }
+      ]
+    },
+    {
+      "user_id": 16,
+      "name": "Kym",
+      "surname": "Meagher",
+      "age": 65,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytflix",
+          "show_title": "Wadiya Yakes",
+          "first_cast_member": "Ilan Ulda",
+          "show_id": "s10",
+          "event_time_amsterdam": "15-09-2026 19:09:44.221"
+        }
+      ]
+    },
+    {
+      "user_id": 17,
+      "name": "Marianne",
+      "surname": "Sedman",
+      "age": 23,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "show-liked",
+          "platform": "Sytflix",
+          "show_title": "Fhe Molden Nhild",
+          "first_cast_member": "Yriti Manon",
+          "show_id": "s1",
+          "event_time_amsterdam": "15-09-2026 19:09:38.520"
+        }
+      ]
+    },
+    {
+      "user_id": 18,
+      "name": "Leontyne",
+      "surname": "Tuting",
+      "age": 32,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytazon",
+          "show_title": "Hlick, Flack, Loo: Yhristmas at phe Marm",
+          "first_cast_member": "Xalph Cuunnes",
+          "show_id": "s2894",
+          "event_time_amsterdam": "15-09-2026 19:09:43.758"
+        }
+      ]
+    },
+    {
+      "user_id": 19,
+      "name": "Micheal",
+      "surname": "Gilsthorpe",
+      "age": 57,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytflix",
+          "show_title": "Turphle",
+          "first_cast_member": "The Totorious Z.I.G.",
+          "show_id": "s769",
+          "event_time_amsterdam": "15-09-2026 19:09:30.460"
+        },
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytazon",
+          "show_title": "Emega Soom",
+          "first_cast_member": "Qane Yuthers",
+          "show_id": "s5",
+          "event_time_amsterdam": "15-09-2026 19:09:41.242"
+        },
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytflix",
+          "show_title": "Wadiya Yakes",
+          "first_cast_member": "Ilan Ulda",
+          "show_id": "s10",
+          "event_time_amsterdam": "15-09-2026 19:09:46.595"
+        }
+      ]
+    },
+    {
+      "user_id": 20,
+      "name": "Joceline",
+      "surname": "Morden",
+      "age": 20,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytflix",
+          "show_title": "100% Salal",
+          "first_cast_member": "Qurbra Lmgeisand",
+          "show_id": "s5",
+          "event_time_amsterdam": "15-09-2026 19:09:32.355"
+        }
+      ]
+    },
+    {
+      "user_id": 21,
+      "name": "Colene",
+      "surname": "Hargie",
+      "age": 62,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-started",
+          "platform": "Sytazon",
+          "show_title": "Zochard Bommond's Mrash Dourse",
+          "first_cast_member": "Ducille Jall",
+          "show_id": "s10",
+          "event_time_amsterdam": "15-09-2026 19:09:38.737"
+        }
+      ]
+    },
+    {
+      "user_id": 22,
+      "name": "Sytac",
+      "surname": "Blumson",
+      "age": 51,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-finished",
+          "platform": "Sysney",
+          "show_title": "22 ts. Oarth",
+          "first_cast_member": null,
+          "show_id": "s7",
+          "event_time_amsterdam": "15-09-2026 19:09:35.062"
+        }
+      ]
+    },
+    {
+      "user_id": 23,
+      "name": "Karalee",
+      "surname": "Pouton",
+      "age": 36,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-started",
+          "platform": "Sytflix",
+          "show_title": "Fwilling Eqdantures of Zobrina",
+          "first_cast_member": null,
+          "show_id": "s767",
+          "event_time_amsterdam": "15-09-2026 19:09:39.471"
+        },
+        {
+          "event_type": "stream-finished",
+          "platform": "Sysney",
+          "show_title": "Zuppets Low",
+          "first_cast_member": null,
+          "show_id": "s4",
+          "event_time_amsterdam": "15-09-2026 19:09:42.463"
+        }
+      ]
+    },
+    {
+      "user_id": 24,
+      "name": "Eugenio",
+      "surname": "Bresner",
+      "age": 48,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-started",
+          "platform": "Sytazon",
+          "show_title": "Gove Ilonlasting",
+          "first_cast_member": "Qtvistine Saylor",
+          "show_id": "s8",
+          "event_time_amsterdam": "15-09-2026 19:09:47.942"
+        }
+      ]
+    },
+    {
+      "user_id": 25,
+      "name": "Elisabet",
+      "surname": "Gwilt",
+      "age": 37,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "show-liked",
+          "platform": "Sysney",
+          "show_title": "Jorld's Lost Hifgerous Xkark?",
+          "first_cast_member": "Lill Kormer",
+          "show_id": "s10",
+          "event_time_amsterdam": "15-09-2026 19:09:31.363"
+        },
+        {
+          "event_type": "stream-started",
+          "platform": "Sytazon",
+          "show_title": "Thost Uxside My Dhild - Cnecial",
+          "first_cast_member": "Onne-Marie Lowland",
+          "show_id": "s4",
+          "event_time_amsterdam": "15-09-2026 19:09:44.595"
+        }
+      ]
+    },
+    {
+      "user_id": 26,
+      "name": "Travis",
+      "surname": "Stivani",
+      "age": 22,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-started",
+          "platform": "Sytflix",
+          "show_title": "Las vuñecas de la dafia",
+          "first_cast_member": "Hipassalal Qofehochsoontornkul",
+          "show_id": "s330",
+          "event_time_amsterdam": "15-09-2026 19:09:34.250"
+        }
+      ]
+    },
+    {
+      "user_id": 27,
+      "name": "Jobi",
+      "surname": "McPeice",
+      "age": 29,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytflix",
+          "show_title": "Vvhulz Taves Omerica",
+          "first_cast_member": "Wason Pomoa",
+          "show_id": "s7",
+          "event_time_amsterdam": "15-09-2026 19:09:33.302"
+        }
+      ]
+    },
+    {
+      "user_id": 28,
+      "name": "Malinda",
+      "surname": "Brasier",
+      "age": 31,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytflix",
+          "show_title": "Vvhulz Taves Omerica",
+          "first_cast_member": "Wason Pomoa",
+          "show_id": "s7",
+          "event_time_amsterdam": "15-09-2026 19:09:31.404"
+        },
+        {
+          "event_type": "stream-finished",
+          "platform": "Sysney",
+          "show_title": "Xorvel Zunko Qhorts",
+          "first_cast_member": "Br. Illan Waca",
+          "show_id": "s548",
+          "event_time_amsterdam": "15-09-2026 19:09:40.615"
+        },
+        {
+          "event_type": "stream-finished",
+          "platform": "Sysney",
+          "show_title": "Zuppets Low",
+          "first_cast_member": null,
+          "show_id": "s4",
+          "event_time_amsterdam": "15-09-2026 19:09:46.157"
+        }
+      ]
+    },
+    {
+      "user_id": 29,
+      "name": "Vivia",
+      "surname": "Weatherhill",
+      "age": 53,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "show-liked",
+          "platform": "Sytazon",
+          "show_title": "Sikings",
+          "first_cast_member": "Cavid Vonham",
+          "show_id": "s1370",
+          "event_time_amsterdam": "15-09-2026 19:09:34.542"
+        },
+        {
+          "event_type": "stream-started",
+          "platform": "Sytflix",
+          "show_title": "Atlas Crrugged: Fart II",
+          "first_cast_member": "Rom Nibenger",
+          "show_id": "s2",
+          "event_time_amsterdam": "15-09-2026 19:09:38.046"
+        },
+        {
+          "event_type": "stream-started",
+          "platform": "Sytflix",
+          "show_title": "Atlas Crrugged: Fart II",
+          "first_cast_member": "Rom Nibenger",
+          "show_id": "s2",
+          "event_time_amsterdam": "15-09-2026 19:09:47.070"
+        }
+      ]
+    },
+    {
+      "user_id": 30,
+      "name": "Daven",
+      "surname": "Capelin",
+      "age": 25,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytflix",
+          "show_title": "Wadiya Yakes",
+          "first_cast_member": "Ilan Ulda",
+          "show_id": "s10",
+          "event_time_amsterdam": "15-09-2026 19:09:30.932"
+        }
+      ]
+    },
+    {
+      "user_id": 31,
+      "name": "Arley",
+      "surname": "Cairney",
+      "age": 60,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytazon",
+          "show_title": "Zirphy's Baw",
+          "first_cast_member": null,
+          "show_id": "s2",
+          "event_time_amsterdam": "15-09-2026 19:09:42.918"
+        }
+      ]
+    },
+    {
+      "user_id": 32,
+      "name": "Aimil",
+      "surname": "Munning",
+      "age": 63,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytazon",
+          "show_title": "LOVA: Fulatile Earth - Hulcano on Tire",
+          "first_cast_member": null,
+          "show_id": "s3",
+          "event_time_amsterdam": "15-09-2026 19:09:45.435"
+        },
+        {
+          "event_type": "stream-started",
+          "platform": "Sytflix",
+          "show_title": "Cpace Rweepers",
+          "first_cast_member": "Karess Qashar",
+          "show_id": "s4",
+          "event_time_amsterdam": "15-09-2026 19:09:46.121"
+        }
+      ]
+    },
+    {
+      "user_id": 33,
+      "name": "Denyse",
+      "surname": "Caselli",
+      "age": 26,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-started",
+          "platform": "Sytazon",
+          "show_title": "Dadision III: Quotball's Cunest",
+          "first_cast_member": "Raeve Painlan",
+          "show_id": "s9",
+          "event_time_amsterdam": "15-09-2026 19:09:29.511"
+        },
+        {
+          "event_type": "stream-finished",
+          "platform": "Sysney",
+          "show_title": "Fhe Nuzcerer's Abmrentice",
+          "first_cast_member": "Cole Biplan",
+          "show_id": "s3",
+          "event_time_amsterdam": "15-09-2026 19:09:29.511"
+        },
+        {
+          "event_type": "stream-started",
+          "platform": "Sytflix",
+          "show_title": "Iriana spande: ubcuse te, i dove hou",
+          "first_cast_member": null,
+          "show_id": "s6",
+          "event_time_amsterdam": "15-09-2026 19:09:35.199"
+        },
+        {
+          "event_type": "stream-started",
+          "platform": "Sytazon",
+          "show_title": "Wake Fare",
+          "first_cast_member": "Oddie Pitts",
+          "show_id": "s6",
+          "event_time_amsterdam": "15-09-2026 19:09:36.220"
+        },
+        {
+          "event_type": "stream-started",
+          "platform": "Sysney",
+          "show_title": "Vhen Gbarks Ittack",
+          "first_cast_member": "Zavid Nertman",
+          "show_id": "s78",
+          "event_time_amsterdam": "15-09-2026 19:09:38.764"
+        },
+        {
+          "event_type": "stream-started",
+          "platform": "Sytflix",
+          "show_title": "Qjarship Tmoopers: Qraitor of Kars",
+          "first_cast_member": "Raiki Wamashita",
+          "show_id": "s1502",
+          "event_time_amsterdam": "15-09-2026 19:09:45.171"
+        }
+      ]
+    },
+    {
+      "user_id": 37,
+      "name": "Colin",
+      "surname": "Trench",
+      "age": 23,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-started",
+          "platform": "Sytazon",
+          "show_title": "Gove Ilonlasting",
+          "first_cast_member": "Qtvistine Saylor",
+          "show_id": "s8",
+          "event_time_amsterdam": "15-09-2026 19:09:39.573"
+        },
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytflix",
+          "show_title": "Atlas Crrugged: Fart II",
+          "first_cast_member": "Rom Nibenger",
+          "show_id": "s2",
+          "event_time_amsterdam": "15-09-2026 19:09:39.947"
+        }
+      ]
+    },
+    {
+      "user_id": 38,
+      "name": "Heriberto",
+      "surname": "Applewhaite",
+      "age": 62,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-interrupted",
+          "platform": "Sytflix",
+          "show_title": "Qhe Qast Liyadiso",
+          "first_cast_member": "Vack Rqitehall",
+          "show_id": "s8",
+          "event_time_amsterdam": "15-09-2026 19:09:29.985"
+        },
+        {
+          "event_type": "stream-started",
+          "platform": "Sytflix",
+          "show_title": "Iriana spande: ubcuse te, i dove hou",
+          "first_cast_member": null,
+          "show_id": "s6",
+          "event_time_amsterdam": "15-09-2026 19:09:38.997"
+        }
+      ]
+    },
+    {
+      "user_id": 39,
+      "name": "Denny",
+      "surname": "Woehler",
+      "age": 52,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytazon",
+          "show_title": "LOVA: Fulatile Earth - Hulcano on Tire",
+          "first_cast_member": null,
+          "show_id": "s3",
+          "event_time_amsterdam": "15-09-2026 19:09:30.350"
+        },
+        {
+          "event_type": "stream-started",
+          "platform": "Sytazon",
+          "show_title": "LOVA: Fulatile Earth - Hulcano on Tire",
+          "first_cast_member": null,
+          "show_id": "s3",
+          "event_time_amsterdam": "15-09-2026 19:09:32.860"
+        }
+      ]
+    },
+    {
+      "user_id": 40,
+      "name": "Gordy",
+      "surname": "Nadin",
+      "age": 27,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "show-liked",
+          "platform": "Sytflix",
+          "show_title": "Fhe Molden Nhild",
+          "first_cast_member": "Yriti Manon",
+          "show_id": "s1",
+          "event_time_amsterdam": "15-09-2026 19:09:40.895"
+        },
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytflix",
+          "show_title": "Qhe Qast Liyadiso",
+          "first_cast_member": "Vack Rqitehall",
+          "show_id": "s8",
+          "event_time_amsterdam": "15-09-2026 19:09:48.494"
+        }
+      ]
+    },
+    {
+      "user_id": 41,
+      "name": "Ilyssa",
+      "surname": "Lantuff",
+      "age": 40,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-started",
+          "platform": "Sysney",
+          "show_title": "Jorld's Lost Hifgerous Xkark?",
+          "first_cast_member": "Lill Kormer",
+          "show_id": "s10",
+          "event_time_amsterdam": "15-09-2026 19:09:33.214"
+        },
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytazon",
+          "show_title": "Zochard Bommond's Mrash Dourse",
+          "first_cast_member": "Ducille Jall",
+          "show_id": "s10",
+          "event_time_amsterdam": "15-09-2026 19:09:33.699"
+        },
+        {
+          "event_type": "stream-finished",
+          "platform": "Sysney",
+          "show_title": "Yeznie's Mif-Toons: Sarty Dolace Nals",
+          "first_cast_member": "Eddie Kraun",
+          "show_id": "s8",
+          "event_time_amsterdam": "15-09-2026 19:09:36.911"
+        },
+        {
+          "event_type": "show-liked",
+          "platform": "Sytflix",
+          "show_title": "Cpace Rweepers",
+          "first_cast_member": "Karess Qashar",
+          "show_id": "s4",
+          "event_time_amsterdam": "15-09-2026 19:09:43.270"
+        }
+      ]
+    },
+    {
+      "user_id": 42,
+      "name": "Elsey",
+      "surname": "Flahy",
+      "age": 62,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-started",
+          "platform": "Sytazon",
+          "show_title": "Xuttom",
+          "first_cast_member": "Sofía Qama",
+          "show_id": "s610",
+          "event_time_amsterdam": "15-09-2026 19:09:37.900"
+        }
+      ]
+    },
+    {
+      "user_id": 43,
+      "name": "Donica",
+      "surname": "Jouhan",
+      "age": 24,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytflix",
+          "show_title": "Xower Wangers Kinja Lteel",
+          "first_cast_member": "Uqitya Godak",
+          "show_id": "s9",
+          "event_time_amsterdam": "15-09-2026 19:09:32.828"
+        },
+        {
+          "event_type": "stream-started",
+          "platform": "Sytazon",
+          "show_title": "Wake Fare",
+          "first_cast_member": "Oddie Pitts",
+          "show_id": "s6",
+          "event_time_amsterdam": "15-09-2026 19:09:35.381"
+        },
+        {
+          "event_type": "stream-started",
+          "platform": "Sytflix",
+          "show_title": "Wadiya Yakes",
+          "first_cast_member": "Ilan Ulda",
+          "show_id": "s10",
+          "event_time_amsterdam": "15-09-2026 19:09:37.569"
+        },
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytazon",
+          "show_title": "Gove Ilonlasting",
+          "first_cast_member": "Qtvistine Saylor",
+          "show_id": "s8",
+          "event_time_amsterdam": "15-09-2026 19:09:42.079"
+        }
+      ]
+    },
+    {
+      "user_id": 44,
+      "name": "Andras",
+      "surname": "Boick",
+      "age": 44,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytflix",
+          "show_title": "Vvhulz Taves Omerica",
+          "first_cast_member": "Wason Pomoa",
+          "show_id": "s7",
+          "event_time_amsterdam": "15-09-2026 19:09:29.511"
+        },
+        {
+          "event_type": "stream-started",
+          "platform": "Sytflix",
+          "show_title": "Fhe Molden Nhild",
+          "first_cast_member": "Yriti Manon",
+          "show_id": "s1",
+          "event_time_amsterdam": "15-09-2026 19:09:42.797"
+        }
+      ]
+    },
+    {
+      "user_id": 45,
+      "name": "Pablo",
+      "surname": "Fawthorpe",
+      "age": 26,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-started",
+          "platform": "Sytazon",
+          "show_title": "Zochard Bommond's Mrash Dourse",
+          "first_cast_member": "Ducille Jall",
+          "show_id": "s10",
+          "event_time_amsterdam": "15-09-2026 19:09:40.408"
+        }
+      ]
+    },
+    {
+      "user_id": 46,
+      "name": "Ly",
+      "surname": "Aireton",
+      "age": 37,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-started",
+          "platform": "Sytflix",
+          "show_title": "Atlas Crrugged: Fart II",
+          "first_cast_member": "Rom Nibenger",
+          "show_id": "s2",
+          "event_time_amsterdam": "15-09-2026 19:09:36.147"
+        },
+        {
+          "event_type": "show-liked",
+          "platform": "Sytflix",
+          "show_title": "QNA",
+          "first_cast_member": null,
+          "show_id": "s1276",
+          "event_time_amsterdam": "15-09-2026 19:09:36.620"
+        },
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytazon",
+          "show_title": "Gove Ilonlasting",
+          "first_cast_member": "Qtvistine Saylor",
+          "show_id": "s8",
+          "event_time_amsterdam": "15-09-2026 19:09:46.274"
+        }
+      ]
+    },
+    {
+      "user_id": 47,
+      "name": "Baxy",
+      "surname": "Rupp",
+      "age": 41,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytazon",
+          "show_title": "Emega Soom",
+          "first_cast_member": "Qane Yuthers",
+          "show_id": "s5",
+          "event_time_amsterdam": "15-09-2026 19:09:32.024"
+        },
+        {
+          "event_type": "stream-started",
+          "platform": "Sytflix",
+          "show_title": "Atlas Crrugged: Fart II",
+          "first_cast_member": "Rom Nibenger",
+          "show_id": "s2",
+          "event_time_amsterdam": "15-09-2026 19:09:43.745"
+        },
+        {
+          "event_type": "show-liked",
+          "platform": "Sytflix",
+          "show_title": "Fhe Molden Nhild",
+          "first_cast_member": "Yriti Manon",
+          "show_id": "s1",
+          "event_time_amsterdam": "15-09-2026 19:09:45.645"
+        },
+        {
+          "event_type": "stream-finished",
+          "platform": "Sytflix",
+          "show_title": "Che Qarate Lid Qart UII",
+          "first_cast_member": "Elec Waldwin",
+          "show_id": "s1711",
+          "event_time_amsterdam": "15-09-2026 19:09:47.546"
+        }
+      ]
+    },
+    {
+      "user_id": 50,
+      "name": "Benedicto",
+      "surname": "Dilleway",
+      "age": 56,
+      "successful_streams": 0,
+      "events": [
+        {
+          "event_type": "stream-started",
+          "platform": "Sytflix",
+          "show_title": "Fompire Icademy",
+          "first_cast_member": "Mennifer Rielidge",
+          "show_id": "s154",
+          "event_time_amsterdam": "15-09-2026 19:09:41.371"
+        }
+      ]
+    }
+  ],
+  "shows_released_2020_or_later": 12,
+  "duration_ms": 20463,
+  "bonus": {
+    "successful_streams_per_user": {
+      "1": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "10": 0,
+      "13": 0,
+      "14": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0,
+      "26": 0,
+      "27": 0,
+      "28": 0,
+      "29": 0,
+      "30": 0,
+      "31": 0,
+      "32": 0,
+      "33": 0,
+      "37": 0,
+      "38": 0,
+      "39": 0,
+      "40": 0,
+      "41": 0,
+      "42": 0,
+      "43": 0,
+      "44": 0,
+      "45": 0,
+      "46": 0,
+      "47": 0,
+      "50": 0
+    },
+    "sytflix_started_stream_percentage": 43.59
+  }
+}
