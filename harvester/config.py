@@ -12,7 +12,7 @@ TIMEOUT_SECONDS = 20
 SYTAC_DETECTION_LIMIT = 3
 
 COUNTRY_TIMEZONES: dict[str, ZoneInfo] = {
-    "PT": ZoneInfo("UTC"),
+    "PT": ZoneInfo("Europe/Lisbon"),
     "CA": ZoneInfo("America/Toronto"),
     "US": ZoneInfo("America/Los_Angeles"),
     "RU": ZoneInfo("Europe/Moscow"),
