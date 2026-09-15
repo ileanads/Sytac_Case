@@ -1,4 +1,4 @@
-# Sytac Data Harvester 🕵️‍♂️
+# Sytac Data Harvester
 
 A real-time data harvester that consumes Server-Sent Events from three video streaming platforms (Sytflix, Sytazon, Sysney) in parallel, and produces an aggregated JSON report.
 
@@ -97,10 +97,3 @@ The output is a JSON document with this structure:
 }
 ```
 
-## Design decisions
-
-- **`httpx` over `requests`/`aiohttp`**: lightweight async HTTP with first-class streaming and basic-auth support.
-- **`zoneinfo`** (stdlib) for IANA timezone handling, including DST transitions.
-- **No heavy frameworks**: the task is a CLI harvester; adding Flask/FastAPI would be over-engineering.
-- **Dataclasses over dicts**: typed, self-documenting data structures that are easy to test.
-- **Malformed-data resilience**: all parsing is wrapped in try/except; bad messages are logged and skipped.
